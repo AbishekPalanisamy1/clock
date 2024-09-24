@@ -1,0 +1,51 @@
+.container{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.col1{
+    justify-content: center;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.col3,.row2{
+   align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap:3rem;
+}
+
+.col3-content{
+    display: flex;
+}
+
+.timer{
+    display: flex;
+   font-size: larger;
+}
+.col3-content-click{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+}
+
+.row3{
+    display: flex;
+    /* align-items: center;
+    text-align: center; */
+    justify-content: center;
+    padding-top:1rem;
+
+}
+.col2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 1rem;
+}
